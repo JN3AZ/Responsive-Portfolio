@@ -4,6 +4,14 @@ body {
     background-color: #cccccc;
     color: teal
 }
+
+
+
+.navbar-brand {
+    background-color: teal;
+     
+}
+
 .img-container {
     position: relative; 
 }
