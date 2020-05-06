@@ -5,10 +5,14 @@ body {
     color: teal
 }
 
+.nav-area{
+    padding: 0;
+}
 
-
-.navbar-brand {
+.navbar-light .navbar-brand.my-name {
     background-color: teal;
+    color: white;
+    padding: 30px;
      
 }
 
@@ -38,6 +42,7 @@ border-bottom: 5px solid black;
 font-weight: bold;
 color: teal;
 border-bottom:3px solid grey;
+background-color: white;
 }
 
   
