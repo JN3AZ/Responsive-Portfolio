@@ -4,11 +4,11 @@ body {
     background-color: #cccccc;
     color: teal
 }
-img-container {
+.img-container {
     position: relative; 
 }
 
-img-contaner img {
+.img-container img {
 width: 100%;
 }
 .img-container h2 {
@@ -20,7 +20,7 @@ width: 100%;
     bottom: 50px;
 }
 
-h1 {
+.h1 {
 font-size: 26px;
 margin: 15px 0px 5px 0px;
 border-bottom: 5px solid black;
