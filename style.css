@@ -23,6 +23,7 @@ body {
 .img-container img {
 width: 100%;
 }
+
 .img-container h2 {
     position: absolute;
     background-color: aquamarine;
@@ -45,18 +46,9 @@ border-bottom:3px solid grey;
 background-color: white;
 }
 
-  
-.footer {
-    background-color: aquamarine;
-    left: 0px;
-    bottom: 0px;
-    height: 40px;
-    width: 100%;
-    text-align: center;
-    position: absolute;
-}
 
-.container {
+  .container {
+    height: 94%;
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
@@ -64,3 +56,11 @@ background-color: white;
     margin-left: auto;
 }
 
+.footer {
+    background-color: aquamarine;
+    bottom: 0px;
+    height: 6%;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+}
